@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm mehrabshah(Web and Mobile application developer)</h1>
-<h3 align="center">I'm an full stack developer specializing in delivering innovative software solutions that drive business growth. With 3 years of experience, I excel in transforming ideas into functional, scalable, and user-friendly applications. From web and mobile development to custom software solutions and e-commerce platforms, I provide tailored services that meet your unique needs. </h3>
+<h3 align="center">With 4 years of experience in software development, I am a highly skilled front-end developer specializing in React JS, React Native, Angular, and Next.js. I excel in delivering dynamic, scalable, and high-performance user interfaces, ensuring seamless user experiences and responsiveness across all devices and browsers. My focus is on meeting client priorities with high-quality, tailored solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrabshah&label=Profile%20views&color=0e75b6&style=flat" alt="mehrabshah" /> </p>
 
